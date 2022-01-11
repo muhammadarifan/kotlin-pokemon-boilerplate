@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project/android/KlikDigitalTask/app/src/main/res/layout/fragment_detail.xml" value="0.22" />
+        <entry key="..\:/project/android/KlikDigitalTask/app/src/main/res/layout/fragment_pokemon_evolution.xml" value="0.18645833333333334" />
+        <entry key="..\:/project/android/KlikDigitalTask/app/src/main/res/layout/fragment_pokemon_information.xml" value="0.2" />
+        <entry key="..\:/project/android/KlikDigitalTask/app/src/main/res/layout/fragment_splash.xml" value="0.22" />
+        <entry key="..\:/project/android/KlikDigitalTask/app/src/main/res/layout/item_pokemon_list.xml" value="0.209375" />
+        <entry key="..\:/project/android/KlikDigitalTask/app/src/main/res/layout/item_stat_list.xml" value="0.25" />
+        <entry key="..\:/project/android/KlikDigitalTask/app/src/main/res/layout/main_activity.xml" value="0.209375" />
+        <entry key="..\:/project/android/KlikDigitalTask/app/src/main/res/layout/main_fragment.xml" value="0.33" />
+        <entry key="..\:/project/android/KlikDigitalTask/app/src/main/res/menu/detail_bottom_navigation_menu.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -13,4 +13,15 @@
     <color name="brown75">#736B60</color>
     <color name="brown50">#A49694</color>
     <color name="brown25">#EDE7D9</color>
+
+    <color name="pokemon_black">#2c3e50</color>
+    <color name="pokemon_blue">#2980b9</color>
+    <color name="pokemon_brown">#d35400</color>
+    <color name="pokemon_gray">#7f8c8d</color>
+    <color name="pokemon_green">#2ecc71</color>
+    <color name="pokemon_pink">#ffb8b8</color>
+    <color name="pokemon_purple">#8e44ad</color>
+    <color name="pokemon_red">#c0392b</color>
+    <color name="pokemon_white">#ecf0f1</color>
+    <color name="pokemon_yellow">#f1c40f</color>
 </resources>

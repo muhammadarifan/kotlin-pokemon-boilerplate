@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KlikDigitalTask</string>
+    <string name="app_name">PokemonB</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="name">name</string>
@@ -7,4 +7,6 @@
     <string name="weight">weight</string>
     <string name="color">color</string>
     <string name="type">type</string>
+    <string name="pokemon_image">Pokemon Image</string>
+    <string name="pokemon">Pokemon</string>
 </resources>
